@@ -54,11 +54,16 @@ hr {
 }
 
 .lists{
-    padding: 1rem 2rem;
     background-color: #F0F9FF;
-    margin: 2rem 2rem;
-    border-radius: 2rem;
-}
+    margin-left: none;
+    margin-right: 2rem;
+    margin-bottom: 4rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 0.8rem;
+    border-radius: 1rem;
+    
+    }
 
 .blog-lists{
     padding: 1rem 2rem;
@@ -70,6 +75,10 @@ hr {
 
 .blog-lists h2{
     color: black;
+}
+
+li {
+    text-align: left;
 }
 
 .navigation {
