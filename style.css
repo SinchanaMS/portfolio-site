@@ -66,11 +66,16 @@ hr {
     }
 
 .blog-lists{
-    padding: 1rem 2rem;
+    margin-left: none;
+    margin-right: 2rem;
+    margin-bottom: 4rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 0.8rem;
+    border-radius: 1rem;
     background-color: #F0F9FF;
     color: #0369A1;
-    margin: 2rem 2rem;
-    border-radius: 2rem;
+    
 }
 
 .blog-lists h2{
