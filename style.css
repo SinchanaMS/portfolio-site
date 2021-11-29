@@ -151,11 +151,6 @@ li {
     background-color: #F0F9FF;
     
 }
-@media only screen and (max-width: 480px) {
-    .app {
-        max-width: 300px;
-        padding: 2rem 2rem;
-    }
 
 /* footer */
 .footer{
@@ -176,8 +171,4 @@ li {
 .footer .footer-header{
     font-weight: bold;
     font-size: large;
-}
-
-.footer ul{
-    padding-inline-start: 0px;
 }
